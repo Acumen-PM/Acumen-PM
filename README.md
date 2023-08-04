@@ -1,7 +1,7 @@
 - Hi, I’m @Acumen-PM
-- I’m interested in ... HTML and CSS Web Development
-- I’m currently learning ... HTML and CSS
-- I’m looking to collaborate on ... anything man
+- I’m interested in ... Python and Red teaming
+- I’m currently learning ... Python
+- I’m looking to collaborate on ... Anything man, I like learning
 - How to reach me ...
 
 <!---
